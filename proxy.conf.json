@@ -1,0 +1,6 @@
+{
+  "*": {
+    "target": "http://proxy.unicaen.fr:3128",
+    "secure": false
+  }
+}
